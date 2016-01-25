@@ -15,6 +15,7 @@ class StringController
 private:
 	int count;
 	string words;
+	string myWords;
 public:
 	StringController();
 	void start();
